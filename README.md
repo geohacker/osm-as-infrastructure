@@ -2,7 +2,7 @@ Outine
 =====================
 
 1. OpenStreetMap - data beyond good looking maps. - 10 mins.
-2. Data - 20 mins.
+2. Data - modelling your data the OSM way and why - 20 mins.
     1. Elements or Data Primitives
         * Nodes - points in space.
         * Ways - lines or area
@@ -11,6 +11,8 @@ Outine
     3. Metadata taxonomy -
         * Map features - modeling and categorizing realworld objects. 
         * Tags - Keys and Values.
+        * Presets - canned reusable features.
+        * HSTORE FTW!
     4. The XML Data Format. - 10 mins.
         1. Structure.
         2. Parsers.
@@ -20,7 +22,7 @@ Outine
     5. Changesets.
         1. Full history.
         2. Watch List.
-3. Infrastructure - 20 mins.
+3. Infrastructure - setting up everything to work together - 20 mins.
     1. Backend.
         1. PostgreSQL. Tuned. +PostGIS.
         2. Osmosis.
