@@ -50,4 +50,4 @@ Take close look at backend optimisations, data collection, editing and styling, 
             2. OpenLayers
             
 ### 4. Moabi - Using OpenStreetMap for monitoring natural resource extraction in DRC. - 5 mins.
-### 5. Code and support - where to find code, documentation and how to get support.
+### 5. Code and support - where to find code, documentation and how to get support. - 2 min.
