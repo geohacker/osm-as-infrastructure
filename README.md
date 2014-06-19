@@ -26,6 +26,7 @@ Understand the OpenStreetMap data model and see how easy it is for you adapt you
         5. Changesets.
             1. Full history.
             2. Watch List.
+            
 ### 3. Infrastructure - setting up everything to work together - 15 mins.
 Take close look at backend optimisations, data collection, editing and styling, and rendering toolchain.
 
@@ -47,4 +48,6 @@ Take close look at backend optimisations, data collection, editing and styling, 
         5. Visualisation.
             1. Leaflet
             2. OpenLayers
-### 4. Code and support - where to find code, documentation and how to get support. - 5 mins.
+            
+### 4. Moabi - Using OpenStreetMap for monitoring natural resource extraction in DRC. - 5 mins.
+### 5. Code and support - where to find code, documentation and how to get support.
