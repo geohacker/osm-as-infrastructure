@@ -1,6 +1,6 @@
 Outine
 =====================
-
+![Component Overview](https://docs.google.com/drawings/d/1p58cs0mM5SylQrt4vR2X7HlzMJHEJjAp29yplbAatKI/pub?w=1734&amp;h=1095)
 ### 1. OpenStreetMap - data beyond good looking maps. - 5 mins.
 ### 2. Data - modelling your data the OSM way and why - 15 mins.
 Understand the OpenStreetMap data model and see how easy it is for you adapt your data.
